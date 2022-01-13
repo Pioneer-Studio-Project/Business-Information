@@ -1,16 +1,18 @@
 12/27/2021 ~ 1/23/2022 : 언리얼 엔진 학습 & 게임 기획 완성
 * 게임 기획은 해당 기간동안 자율적으로 진행
 
-  12/28/2021 ~ 1/16/2022 : 언리얼 엔진 기초 학습 - 강좌 수강
-  * https://www.youtube.com/channel/UCtZYp2-9HeNzaxDbuyzT2yg에서 '왕초보를 위한 언리얼엔진 강좌'를 순차적으로 수강
+  12/28/2021 ~ 1/9/2022 : 언리얼 엔진 기초 학습
+  * https://www.youtube.com/channel/UCtZYp2-9HeNzaxDbuyzT2yg에서 '왕초보를 위한 언리얼엔진 강좌'의 level 1, 2, 3을 순차적으로 수강
   
-  1/17/2021 ~ 1/30/2022 : 언리얼 엔진 심화 학습 - 문서 탐독
-  * https://docs.unrealengine.com/4.27/ko/의 순서를 따라 구체적인 내용 학습
-  * https://docs.unrealengine.com/4.27/ko/Resources/ContentExamples/에 해당하는 예제 실습
+  1/10/2021 ~ 2/6/2022 : 언리얼 엔진 심화 학습 
+  * https://www.youtube.com/playlist?list=PLnHeglBaPYu_aUsm78py_O_OENKhdCGZS에서 'Unreal Engine C++ Multiplayer Survival Series'를 순차적으로 수강
+  
 
+2/7/2022 ~ 2/27/2022 : 업무에 따라 다음의 작업들 중 하나를 수행
+1. 구동가능한 수준의 게임 개발 & 언리얼 엔진 추가 학습
+* 개발 중 필요하다면 https://docs.unrealengine.com/4.27/ko/에서 추가로 학습
 
-1/24/2022 ~ 2/27/2022 : 구동가능한 수준의 게임 개발 & 언리얼 엔진 추가 학습
-
+2. 디자인 원화 제작 & 마야 학습
 
 
 2/28/2022 ~ : 모델링 개선 & 디버그 & 최적화 & 고급 기능 추가
